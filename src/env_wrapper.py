@@ -1,4 +1,5 @@
 import gym
+import gym_minigrid
 import retro
 from src.utils import resize, rgb2gray
 import numpy as np
